@@ -1,22 +1,22 @@
 .app_and {
-    height: 100px;
-    width: 256px;
+    height: 66px;
+    width: 210px;
 }
 
 .app_ios {
-    height: 100px;
+    height: 66px;
     width: 210px;
 }
 
 .title {
     font-family: times;
-    
-    
+
+
 
 }
 
 .text {
-    font-family: arial; 
+    font-family: arial;
 }
 
 
