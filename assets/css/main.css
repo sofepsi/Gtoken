@@ -2720,6 +2720,7 @@
 		font-size: 1.1em;
 		margin-top: -0.25em;
 		line-height: 1.5em;
+        
 	}
 
 	header h4 + p,
@@ -3349,9 +3350,17 @@
 				color: #828282;
 			}
 
-			.wrapper.style2 h1, .wrapper.style2 h2, .wrapper.style2 h3, .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
+			.wrapper.style2 h2,  .wrapper.style2 h4, .wrapper.style2 h5, .wrapper.style2 h6 {
 				color: #828282;
 			}
+
+            .wrapper.style2 h3 {
+                color: skyblue;
+            }
+
+            .wrapper.style2 h1 {
+                color: black;
+            }
 
 			.wrapper.style2 blockquote {
 				border-left-color: #e6e6e6;
